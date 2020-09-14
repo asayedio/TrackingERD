@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T08:05:30.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="fWl0lKhDOVf0k8atXWRE" version="13.6.10" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-14T08:07:44.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="PTDFM6v0rixvxB_g5HHP" version="13.6.10" type="github" pages="7">
   <diagram name="home" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="3076" dy="10146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#f5f5f5" math="0" shadow="0">
       <root>
@@ -486,14 +486,11 @@
         </mxCell>
         <mxCell id="EAmTsdpy8t90Epdx6mI2-13" value="Add" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;fillColor=#D6373B;" parent="EAmTsdpy8t90Epdx6mI2-8" vertex="1">
           <mxGeometry y="1" width="150" height="30" relative="1" as="geometry">
-            <mxPoint x="120" y="-60" as="offset" />
+            <mxPoint x="120" y="-171.51999999999998" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZzNw7BvX_wkg3__SjTHC-0" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="EAmTsdpy8t90Epdx6mI2-8" vertex="1">
           <mxGeometry x="120" y="70" width="150" height="38.4" as="geometry" />
-        </mxCell>
-        <mxCell id="ZzNw7BvX_wkg3__SjTHC-1" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Board Liaison&lt;/span&gt;" style="shape=ellipse;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;shadow=0;" parent="EAmTsdpy8t90Epdx6mI2-8" vertex="1">
-          <mxGeometry x="120" y="190.00000000000003" width="15" height="19.2" as="geometry" />
         </mxCell>
         <mxCell id="ZzNw7BvX_wkg3__SjTHC-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="EAmTsdpy8t90Epdx6mI2-8" vertex="1">
           <mxGeometry x="5" y="148.48000000000002" width="80" height="51.2" as="geometry" />
@@ -593,12 +590,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="add-core-member" id="llOF711dRALRdbQ3knPZ">
-    <mxGraphModel dx="3903" dy="11315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#f5f5f5" math="0" shadow="0">
+    <mxGraphModel dx="3903" dy="21836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#f5f5f5" math="0" shadow="0">
       <root>
         <mxCell id="UyC0P8hcRPXW4UOSZU8S-0" />
         <mxCell id="UyC0P8hcRPXW4UOSZU8S-1" parent="UyC0P8hcRPXW4UOSZU8S-0" />
         <mxCell id="l_qqygr_Xr7uLCk1Kuf3-11" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%20style%3D%26quot%3Bbox-sizing%3A%20border-box%20%3B%20color%3A%20rgb(255%20%2C%20255%20%2C%20255)%20%3B%20font-family%3A%20%26amp%3B%2334%3Bsource%20sans%20pro%26amp%3B%2334%3B%20%3B%20font-size%3A%2016px%20%3B%20background-color%3A%20rgb(7%20%2C%2082%20%2C%20165)%26quot%3B%26gt%3BCopyright%20%C2%A92020%20American%20Chamber%20of%20Commerce%20in%20Egypt%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%20class%3D%26quot%3Bsmall%26quot%3B%20style%3D%26quot%3Bbox-sizing%3A%20border-box%20%3B%20font-size%3A%2013.92px%20%3B%20color%3A%20rgb(255%20%2C%20255%20%2C%20255)%20%3B%20font-family%3A%20%26amp%3B%2334%3Bsource%20sans%20pro%26amp%3B%2334%3B%20%3B%20background-color%3A%20rgb(7%20%2C%2082%20%2C%20165)%26quot%3B%26gt%3B%26lt%3Ba%20href%3D%26quot%3Bhttps%3A%2F%2Fwww.amcham.org.eg%2Fprivacy%26quot%3B%20style%3D%26quot%3Bbox-sizing%3A%20border-box%20%3B%20background-color%3A%20transparent%20%3B%20color%3A%20rgb(255%20%2C%20255%20%2C%20255)%26quot%3B%26gt%3BPrivacy%26lt%3B%2Fa%26gt%3B%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%7C%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Ba%20href%3D%26quot%3Bhttps%3A%2F%2Fwww.amcham.org.eg%2Fcopyright-disclaimer%26quot%3B%20style%3D%26quot%3Bbox-sizing%3A%20border-box%20%3B%20background-color%3A%20transparent%20%3B%20color%3A%20rgb(255%20%2C%20255%20%2C%20255)%26quot%3B%26gt%3BCopyright%20%26amp%3Bamp%3B%20Disclaimer%26lt%3B%2Fa%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%230752a5%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1330%22%20y%3D%22-690%22%20width%3D%22830%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#F5F5F5;strokeColor=none;" parent="UyC0P8hcRPXW4UOSZU8S-1" vertex="1">
-          <mxGeometry x="-2160" y="-10510" width="830" height="620" as="geometry" />
+          <mxGeometry x="-2290" y="-20540" width="830" height="620" as="geometry" />
         </mxCell>
         <mxCell id="l_qqygr_Xr7uLCk1Kuf3-12" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="l_qqygr_Xr7uLCk1Kuf3-11" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -638,7 +635,7 @@
         </mxCell>
         <mxCell id="l_qqygr_Xr7uLCk1Kuf3-22" value="Add" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;fillColor=#D6373B;" parent="l_qqygr_Xr7uLCk1Kuf3-18" vertex="1">
           <mxGeometry y="1" width="150" height="30" relative="1" as="geometry">
-            <mxPoint x="170" y="-150.32" as="offset" />
+            <mxPoint x="170" y="-90" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l_qqygr_Xr7uLCk1Kuf3-23" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="l_qqygr_Xr7uLCk1Kuf3-18" vertex="1">
@@ -646,6 +643,9 @@
         </mxCell>
         <mxCell id="l_qqygr_Xr7uLCk1Kuf3-25" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="l_qqygr_Xr7uLCk1Kuf3-18" vertex="1">
           <mxGeometry x="5" y="148.48000000000002" width="80" height="51.2" as="geometry" />
+        </mxCell>
+        <mxCell id="Xch1KqKhufJuxylPKOje-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Board Liaison&lt;/span&gt;" style="shape=ellipse;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;shadow=0;" vertex="1" parent="l_qqygr_Xr7uLCk1Kuf3-18">
+          <mxGeometry x="170" y="164.47999999999956" width="15" height="19.2" as="geometry" />
         </mxCell>
         <mxCell id="l_qqygr_Xr7uLCk1Kuf3-34" value="&lt;font color=&quot;#d6373b&quot; style=&quot;font-weight: normal&quot;&gt;Home&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.anchor;fontSize=17;fontColor=#666666;fontStyle=1;sketch=0;fillColor=#f5f5f5;gradientColor=none;" parent="l_qqygr_Xr7uLCk1Kuf3-11" vertex="1">
           <mxGeometry x="55" y="195.54000000000002" width="60" height="30" as="geometry" />
